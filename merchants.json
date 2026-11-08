@@ -1,0 +1,271 @@
+{
+  "version": "1.1.0",
+  "last_updated": "2026-11-08",
+  "merchants": [
+    {
+      "domain": "abritel.fr",
+      "name": "Abritel",
+      "discount": "",
+      "url": "https://www.boursobank.com/bon-plan/the-corner"
+    },
+    {
+      "domain": "adidas.fr",
+      "name": "adidas",
+      "discount": "",
+      "url": "https://www.boursobank.com/bon-plan/the-corner"
+    },
+    {
+      "domain": "alamo.fr",
+      "name": "Alamo – Enterprise – National",
+      "discount": "",
+      "url": "https://www.boursobank.com/bon-plan/the-corner"
+    },
+    {
+      "domain": "alpiq.fr",
+      "name": "Alpiq",
+      "discount": "",
+      "url": "https://www.boursobank.com/bon-plan/the-corner"
+    },
+    {
+      "domain": "amazon.fr",
+      "name": "Amazon",
+      "discount": "2%",
+      "url": "https://www.boursobank.com/bon-plan/the-corner"
+    },
+    {
+      "domain": "laredoute.fr",
+      "name": "AMPM",
+      "discount": "",
+      "url": "https://www.boursobank.com/bon-plan/the-corner"
+    },
+    {
+      "domain": "apple.com",
+      "name": "Apple",
+      "discount": "",
+      "url": "https://www.boursobank.com/bon-plan/the-corner"
+    },
+    {
+      "domain": "aquaboulevard.fr",
+      "name": "Aquaboulevard",
+      "discount": "",
+      "url": "https://www.boursobank.com/bon-plan/the-corner"
+    },
+    {
+      "domain": "cinedeassas.fr",
+      "name": "Aquarium de Paris",
+      "discount": "",
+      "url": "https://www.boursobank.com/bon-plan/the-corner"
+    },
+    {
+      "domain": "aroma-zone.com",
+      "name": "Aroma-Zone",
+      "discount": "",
+      "url": "https://www.boursobank.com/bon-plan/the-corner"
+    },
+    {
+      "domain": "asos.com",
+      "name": "Asos",
+      "discount": "8%",
+      "url": "https://www.boursobank.com/bon-plan/the-corner"
+    },
+    {
+      "domain": "aubert.com",
+      "name": "Aubert",
+      "discount": "",
+      "url": "https://www.boursobank.com/bon-plan/the-corner"
+    },
+    {
+      "domain": "auchan.fr",
+      "name": "Auchan",
+      "discount": "",
+      "url": "https://www.boursobank.com/bon-plan/the-corner"
+    },
+    {
+      "domain": "ayvens.com",
+      "name": "Ayvens - Véhicules d'occasion",
+      "discount": "",
+      "url": "https://www.boursobank.com/bon-plan/the-corner"
+    },
+    {
+      "domain": "azureva-vacances.com",
+      "name": "Azureva",
+      "discount": "",
+      "url": "https://www.boursobank.com/bon-plan/the-corner"
+    },
+    {
+      "domain": "belambra.fr",
+      "name": "Belambra",
+      "discount": "",
+      "url": "https://www.boursobank.com/bon-plan/the-corner"
+    },
+    {
+      "domain": "bonoboplanet.com",
+      "name": "Bonobo",
+      "discount": "",
+      "url": "https://www.boursobank.com/bon-plan/the-corner"
+    },
+    {
+      "domain": "booking.com",
+      "name": "Booking.com",
+      "discount": "4%",
+      "url": "https://www.boursobank.com/bon-plan/the-corner"
+    },
+    {
+      "domain": "bosch-home.fr",
+      "name": "Bosch",
+      "discount": "",
+      "url": "https://www.boursobank.com/bon-plan/the-corner"
+    },
+    {
+      "domain": "breal.net",
+      "name": "Bréal",
+      "discount": "",
+      "url": "https://www.boursobank.com/bon-plan/the-corner"
+    },
+    {
+      "domain": "bricocash.fr",
+      "name": "Brico Cash",
+      "discount": "",
+      "url": "https://www.boursobank.com/bon-plan/the-corner"
+    },
+    {
+      "domain": "bricomarche.com",
+      "name": "Bricomarché",
+      "discount": "",
+      "url": "https://www.boursobank.com/bon-plan/the-corner"
+    },
+    {
+      "domain": "bricorama.fr",
+      "name": "Bricorama",
+      "discount": "",
+      "url": "https://www.boursobank.com/bon-plan/the-corner"
+    },
+    {
+      "domain": "but.fr",
+      "name": "BUT",
+      "discount": "",
+      "url": "https://www.boursobank.com/bon-plan/the-corner"
+    },
+    {
+      "domain": "c-and-a.com",
+      "name": "C&A",
+      "discount": "",
+      "url": "https://www.boursobank.com/bon-plan/the-corner"
+    },
+    {
+      "domain": "cache-cache.fr",
+      "name": "Cache Cache",
+      "discount": "",
+      "url": "https://www.boursobank.com/bon-plan/the-corner"
+    },
+    {
+      "domain": "cafeyn.co",
+      "name": "Cafeyn",
+      "discount": "",
+      "url": "https://www.boursobank.com/bon-plan/the-corner"
+    },
+    {
+      "domain": "camping-and-co.com",
+      "name": "Camping and Co",
+      "discount": "",
+      "url": "https://www.boursobank.com/bon-plan/the-corner"
+    },
+    {
+      "domain": "campings.com",
+      "name": "Campings.com",
+      "discount": "",
+      "url": "https://www.boursobank.com/bon-plan/the-corner"
+    },
+    {
+      "domain": "cap-adrenaline.com",
+      "name": "Cap Adrénaline",
+      "discount": "",
+      "url": "https://www.boursobank.com/bon-plan/the-corner"
+    },
+    {
+      "domain": "carrefour.fr",
+      "name": "Carrefour",
+      "discount": "",
+      "url": "https://www.boursobank.com/bon-plan/the-corner"
+    },
+    {
+      "domain": "castorama.fr",
+      "name": "Castorama",
+      "discount": "",
+      "url": "https://www.boursobank.com/bon-plan/the-corner"
+    },
+    {
+      "domain": "cdiscount.com",
+      "name": "Cdiscount",
+      "discount": "3%",
+      "url": "https://www.boursobank.com/bon-plan/the-corner"
+    },
+    {
+      "domain": "centerparcs.fr",
+      "name": "Center Parcs",
+      "discount": "",
+      "url": "https://www.boursobank.com/bon-plan/the-corner"
+    },
+    {
+      "domain": "cgrcinemas.fr",
+      "name": "CGR Cinémas",
+      "discount": "",
+      "url": "https://www.boursobank.com/bon-plan/the-corner"
+    },
+    {
+      "domain": "chateaudechantilly.fr",
+      "name": "Château de Chantilly",
+      "discount": "",
+      "url": "https://www.boursobank.com/bon-plan/the-corner"
+    },
+    {
+      "domain": "closluce.com",
+      "name": "Château du Clos Lucé",
+      "discount": "",
+      "url": "https://www.boursobank.com/bon-plan/the-corner"
+    },
+    {
+      "domain": "cinecheque.fr",
+      "name": "Cinéchèque",
+      "discount": "",
+      "url": "https://www.boursobank.com/bon-plan/the-corner"
+    },
+    {
+      "domain": "cite-sciences.fr",
+      "name": "Cité des Sciences",
+      "discount": "",
+      "url": "https://www.boursobank.com/bon-plan/the-corner"
+    },
+    {
+      "domain": "laciteduvin.com",
+      "name": "Cité du vin",
+      "discount": "",
+      "url": "https://www.boursobank.com/bon-plan/the-corner"
+    },
+    {
+      "domain": "cobac-parc.com",
+      "name": "Cobac Parc",
+      "discount": "",
+      "url": "https://www.boursobank.com/bon-plan/the-corner"
+    },
+    {
+      "domain": "cobac-parc.com",
+      "name": "Cobac Parc + Aqua'Fun Park",
+      "discount": "",
+      "url": "https://www.boursobank.com/bon-plan/the-corner"
+    },
+    {
+      "domain": "conforama.fr",
+      "name": "Conforama",
+      "discount": "",
+      "url": "https://www.boursobank.com/bon-plan/the-corner"
+    },
+    {
+      "domain": "cultura.com",
+      "name": "Cultura",
+      "discount": "",
+      "url": "https://www.boursobank.com/bon-plan/the-corner"
+    },
+    {
+      "domain": "cyrillus.fr",
+      "name": "Cyrillus",
